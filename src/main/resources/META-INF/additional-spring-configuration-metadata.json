@@ -1,0 +1,82 @@
+{"properties": [
+  {
+    "name": "spring.database.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.database.driver-class-name'"
+  },
+  {
+    "name": "springdoc.api-docs.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.api-docs.path'"
+  },
+  {
+    "name": "twilio.phoneNumber",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.phoneNumber'"
+  },
+  {
+    "name": "twilio.authToken",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.authToken'"
+  },
+  {
+    "name": "twilio.accountSid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.accountSid'"
+  },
+  {
+    "name": "twilio.authToken",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.authToken'"
+  },
+  {
+    "name": "twilio.authToken",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.authToken'"
+  },
+  {
+    "name": "mail.smtp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.port'"
+  },
+  {
+    "name": "spring.mail.debug",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.debug'"
+  },
+  {
+    "name": "aws.accessKeyId",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.accessKeyId'"
+  },
+  {
+    "name": "aws.secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.secretKey'"
+  },
+  {
+    "name": "aws.region",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.region'"
+  },
+  {
+    "name": "aws.secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.secretKey'"
+  },
+  {
+    "name": "aws.secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.secretKey'"
+  },
+  {
+    "name": "aws.accessKeyId",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.accessKeyId'"
+  },
+  {
+    "name": "springframework.beans.factory.annotation.Autowired(required",
+    "type": "java.lang.String",
+    "description": "A description for 'springframework.beans.factory.annotation.Autowired(required'"
+  }
+]}
